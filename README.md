@@ -1,19 +1,8 @@
-# reaction_timer
+# Reaction Timer 
 
-## Project setup
-```
-npm install
-```
+It's a reaction timer project using Vue to measure the user reflexes\
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Instructions
+1.) To start the game click on the button to start\
+2.) Then after few second a green block will appear click on it\
+3.) Then get your score based on your reflexes
